@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\jjwan\source\repos\beakjoon\Problem_4196\Problem_4196\소스.cpp(26,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jjwan\source\repos\beakjoon\Problem_4196\Problem_4196\소스.cpp(71,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jjwan\source\repos\beakjoon\Problem_4196\Problem_4196\소스.cpp(100,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\jjwan\source\repos\beakjoon\Problem_4196\Problem_4196\소스.cpp(108,21): warning C4018: '<=': signed 또는 unsigned가 일치하지 않습니다.
+  Problem_4196.vcxproj -> C:\Users\jjwan\source\repos\beakjoon\Problem_4196\Debug\Problem_4196.exe

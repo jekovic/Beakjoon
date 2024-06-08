@@ -1,0 +1,3 @@
+﻿  소스.cpp
+C:\Users\jjwan\source\repos\beakjoon\Problem_20055\Problem_20055\소스.cpp(224,9): warning C4101: 'temp' :참조되지 않은 지역 변수입니다.
+  Problem_20055.vcxproj -> C:\Users\jjwan\source\repos\beakjoon\Problem_20055\Debug\Problem_20055.exe

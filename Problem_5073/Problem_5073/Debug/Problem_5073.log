@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\Users\jjwan\source\repos\beakjoon\Problem_5073\Problem_5073\소스.cpp(20,18): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\jjwan\source\repos\beakjoon\Problem_5073\Problem_5073\소스.cpp(20,20): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\jjwan\source\repos\beakjoon\Problem_5073\Problem_5073\소스.cpp(20,22): warning C4838: 'unsigned int'에서 'int'(으)로의 변환에는 축소 변환이 필요합니다.
+  Problem_5073.vcxproj -> C:\Users\jjwan\source\repos\beakjoon\Problem_5073\Debug\Problem_5073.exe

@@ -1,0 +1,6 @@
+﻿  소스.cpp
+C:\Users\jjwan\source\repos\beakjoon\Problem_13241\Problem_13241\소스.cpp(7,8): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jjwan\source\repos\beakjoon\Problem_13241\Problem_13241\소스.cpp(14,8): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jjwan\source\repos\beakjoon\Problem_13241\Problem_13241\소스.cpp(21,8): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jjwan\source\repos\beakjoon\Problem_13241\Problem_13241\소스.cpp(22,8): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Problem_13241.vcxproj -> C:\Users\jjwan\source\repos\beakjoon\Problem_13241\Debug\Problem_13241.exe
