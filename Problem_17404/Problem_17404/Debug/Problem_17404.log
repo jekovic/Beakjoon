@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\Users\jjwan\source\repos\beakjoon\Problem_17404\Problem_17404\소스.cpp(13,17): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\jjwan\source\repos\beakjoon\Problem_17404\Problem_17404\소스.cpp(15,12): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Problem_17404.vcxproj -> C:\Users\jjwan\source\repos\beakjoon\Problem_17404\Debug\Problem_17404.exe
