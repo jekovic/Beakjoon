@@ -51,7 +51,7 @@ int main() {
 	input();
 
 	solve();
-
+	
 	cout << result;
 
 	return 0;
